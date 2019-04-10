@@ -23,7 +23,7 @@ Os algoritmos se encontram nos seguintes diretórios:
   5. Quick Sort: ……..
   
   
-Sabe-se que os algoritmos são: Selection Sort é O (n^2), Bubble Sort é O (..), Insertion é
-O(..), MergeSort é O (..) e QuickSort é O (..)
+Sabe-se que os algoritmos são: Selection Sort é **O (n^2)**, Bubble Sort é **O (n^2)**, Insertion é
+**O(n^2)**, MergeSort é **O (n log n)** e QuickSort é **O (n log n)**
 
 Sou aluno do curso de Engenharia de Software da Universidade Federal do Mato Grosso do Sul.
