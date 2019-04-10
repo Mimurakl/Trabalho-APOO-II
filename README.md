@@ -26,5 +26,4 @@ Os algoritmos se encontram nos seguintes diretórios:
 Sabe-se que os algoritmos são: Selection Sort é O (n^2), Bubble Sort é O (..), Insertion é
 O(..), MergeSort é O (..) e QuickSort é O (..)
 
-
-Trabalho complementar da disciplina APOO II sobre algoritmos de ordenação
+Sou aluno do curso de Engenharia de Software da Universidade Federal do Mato Grosso do Sul.
