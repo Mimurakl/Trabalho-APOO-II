@@ -4,15 +4,15 @@
 Este repositório contém implementações em Java dos seguintes algoritmos de
 ordenação, implementados para que ordenem palavras.
 
-  ● Selection Sort
+    ● Selection Sort
   
-  ● Bubble Sort
+    ● Bubble Sort
   
-  ● Insertion Sort
+    ● Insertion Sort
   
-  ● Merge Sort
+    ● Merge Sort
   
-  ● Quick Sort
+    ● Quick Sort
   
   
 Os algoritmos se encontram nos seguintes diretórios:
